@@ -138,7 +138,14 @@ With consistently high pending revenue (averaging nearly 50% across months), pri
   Allow installment options to reduce financial burden and improve cash flow.  
 
 - **Payment Visibility:**  
-  Enhance transparency by providing customers with easy access to pending payment details.  
+  Enhance transparency by providing customers with easy access to pending payment details.
+
+
+# Recommendations: Optimize Slot Performance
+
+- **Focus on Premium Slot (3 PM)**: Maximize revenue by leveraging the highest average booking price.  
+- **Utilize High-Demand Slot (2 PM)**: Capitalize on strong demand by enhancing services or optimizing pricing.  
+- **Address Low-Demand Slots (5 PM, 9 PM)**: Boost demand through targeted promotions, discounts, or special offers to improve slot utilization.  
 
 ---
 
