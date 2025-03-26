@@ -105,9 +105,8 @@ Below is a summary of the dashboard visuals with their respective names:
 
 ### 6. Party Room: Payment Challenges
 
-Pending revenue remains **persistently high**, peaking at **72.73% in March** and staying above **50%**  
+- Pending revenue remains **persistently high**, peaking at **72.73% in March** and staying above **50%**  
 (**51.35% in May**, **57.42% in June**), reflecting ongoing payment collection issues despite slight improvements.
-"""
 
 ---
 
