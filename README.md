@@ -124,7 +124,9 @@ Below is a summary of the dashboard visuals with their respective names:
 (**51.35% in May**, **57.42% in June**), reflecting ongoing payment collection issues despite slight improvements.
 
 
-# Recommendation: Focus on Pending Payments
+# Recommendation: 
+
+## Focus on Pending Payments
 
 With consistently high pending revenue (averaging nearly 50% across months), prioritize improving payment collections by implementing:
 
@@ -140,8 +142,7 @@ With consistently high pending revenue (averaging nearly 50% across months), pri
 - **Payment Visibility:**  
   Enhance transparency by providing customers with easy access to pending payment details.
 
-
-# Recommendations: Optimize Slot Performance
+## Optimize Slot Performance
 
 - **Focus on Premium Slot (3 PM)**: Maximize revenue by leveraging the highest average booking price.  
 - **Utilize High-Demand Slot (2 PM)**: Capitalize on strong demand by enhancing services or optimizing pricing.  
