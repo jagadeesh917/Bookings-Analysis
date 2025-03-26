@@ -123,6 +123,23 @@ Below is a summary of the dashboard visuals with their respective names:
 - Pending revenue remains **persistently high**, peaking at **72.73% in March** and staying above **50%**  
 (**51.35% in May**, **57.42% in June**), reflecting ongoing payment collection issues despite slight improvements.
 
+
+# Recommendation: Focus on Pending Payments
+
+With consistently high pending revenue (averaging nearly 50% across months), prioritize improving payment collections by implementing:
+
+- **Automated Payment Follow-Ups:**  
+  Send reminders to customers with outstanding balances.  
+
+- **Early Payment Incentives:**  
+  Offer discounts or rewards for timely payments to encourage faster clearance.  
+
+- **Flexible Payment Plans:**  
+  Allow installment options to reduce financial burden and improve cash flow.  
+
+- **Payment Visibility:**  
+  Enhance transparency by providing customers with easy access to pending payment details.  
+
 ---
 
 ## Tools and Technologies  
