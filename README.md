@@ -76,12 +76,38 @@ Below is a summary of the dashboard visuals with their respective names:
 
 ---
 
-## **Key Business Insights**  
-Some key insights generated from the dashboard include:  
-1. **Peak Time Slots**: Analyze which time slots generate the most revenue and bookings.  
-2. **Revenue Growth Trends**: Identify upward/downward monthly trends in bookings and revenue.  
-3. **Booking Status Analysis**: Compare the contribution of confirmed vs pending bookings to total revenue.  
-4. **Customer Segmentation**: Identify top customers based on total revenue and frequent bookings.  
+# Here are the key business insights derived from the dashboard:
+
+### 1. Facility Services:
+- Gradual improvement in reducing pending revenue.
+  - Starting with a high of 72.19% in March.
+  - Decreased to 55.13% in May.
+  - Further improved to 53.11% in June.
+
+### 2. Birthday Party:
+- **Average booking price declines** in April and May.
+  - Possible reason: Discounts or smaller party sizes.
+- **Pending revenue increases**, indicating delays or incomplete payments during these months.
+
+### 3. Instructor James Howard:
+- **Pending revenue percentage shows a concerning rise**, increasing from **40.42% in March to 53.90% in June**, reflecting growing payment delays.
+- The **average booking price has slightly decreased**, from **₹145.20 in March to ₹139.75 in June**, which may indicate:
+  - A potential impact on revenue per booking.
+  - A possible need to investigate reasons for the reduced pricing or lower-value bookings.
+
+### 4. Instructor Lisa Hensley:
+- **Pending revenue percentage improves significantly**, dropping from **53.04% in May to 29.76% in June**.
+- Accompanied by an **increase in the average booking price from ₹121.21 to ₹144.16**.
+
+### 5. Time Slot Analysis:
+- **2 PM time slot generates the highest total revenue**, reflecting strong customer engagement and demand.
+- **3 PM slot records the highest average booking price**, indicating premium bookings or higher service rates compared to other slots.
+
+### 6. Party Room: Payment Challenges
+
+Pending revenue remains **persistently high**, peaking at **72.73% in March** and staying above **50%**  
+(**51.35% in May**, **57.42% in June**), reflecting ongoing payment collection issues despite slight improvements.
+"""
 
 ---
 
