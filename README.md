@@ -97,6 +97,7 @@ Some key insights generated from the dashboard include:
 
 Below is the Power BI Data Model used for this dashboard, showing key relationships between tables:
 
-![Data Model](./data_model.png)
+![Data Model](./Data Model.png)
+
 
 
