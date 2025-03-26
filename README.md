@@ -78,6 +78,21 @@ Below is a summary of the dashboard visuals with their respective names:
 
 # Here are the key business insights derived from the dashboard:
 
+# Key Business Insights:
+
+## **Booking Consistency:**  
+   - The data shows that each customer makes **exactly one booking per month**.
+
+## **Average Booking Price Trend:**  
+   - The average booking price increased steadily from **₹137.51 in March** to **₹144.53 in June**, suggesting that **higher-value bookings may have offset the decline in total bookings**.
+
+ ## **Pending Revenue Concerns:**  
+   - Nearly **half the revenue remains pending across the months**, indicating persistent opportunities to enhance collections and customer engagement:  
+     - **49.39% in March**  
+     - **54.09% in April**  
+     - **52.77% in May**  
+     - **49.43% in June**  
+
 ### 1. Facility Services:
 - Gradual improvement in reducing pending revenue.
   - Starting with a high of 72.19% in March.
