@@ -12,6 +12,9 @@ To address these gaps, there is a need to develop a dynamic, data-driven dashboa
 
 ---
 
+## **Presentaion Video** [![Watch Video](https://1drv.ms/i/c/c906e59640ef80cc/ET3fu7xlowRIn_bZDObpg0UBowy9ltRdgIbb7-WAvKuk8w?e=K12kYg](https://drive.google.com/file/d/1lzesq4zyKYswdeVE_u-CsqXI73T_UTWk/view?usp=sharing)
+
+
 ## **Project Overview**  
 This project aims to create an interactive Power BI dashboard that provides critical insights into service bookings, revenue trends, time slot analysis, and booking status.  
 The dashboard enables better operational planning, customer engagement, and revenue tracking by visualizing key performance metrics.  
